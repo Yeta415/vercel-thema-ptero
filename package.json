@@ -1,0 +1,17 @@
+{
+  "name": "vercel-auto-by-rin-dev-thema-50k",
+  "version": "1.0.0",
+  "description": "Auto installer thema pterodactyl by Rin Dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "license": "MIT"
+}
